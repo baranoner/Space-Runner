@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Digging Machine
+  - Diamond
+  - Shards
+  - Energy Pack
+  - Health Info
+  - Gem Info
+  - Small Astronaut
+  - Small Driller
+  - Gauge Info
+  - LevelEnd
+  - Fail Panel
+  - Game Finish Panel
+  - Singleton Canvas
+  - HealthManager
+  - AudioManager
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3192389883
+    locked: 0
+  - name: Ground
+    uniqueID: 2103135331
+    locked: 0
+  - name: Digging Machines
+    uniqueID: 907109979
+    locked: 0
+  - name: Dust Effects
+    uniqueID: 1753027871
+    locked: 0
+  - name: Interactables
+    uniqueID: 4268394211
+    locked: 0
+  - name: Player
+    uniqueID: 134871263
+    locked: 0
